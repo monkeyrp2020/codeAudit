@@ -1,0 +1,153 @@
+[2020-01-04 14:28:52,147] INFO [64] [REPORT] Report URL: ?sid=aaf009fvisov
+[2020-01-04 14:28:52,148] INFO [75] [CLI] Target directory: /Users/houweitao01/Desktop/cobra/tests/vulnerabilities
+[2020-01-04 14:28:52,180] INFO [85] [CLI] [STATISTIC] Language: php Framework: Flask
+[2020-01-04 14:28:52,180] INFO [88] [CLI] [STATISTIC] Files: 15, Extensions:14, Consume: 0.000676
+[2020-01-04 14:29:01,822] INFO [401] [PUSH] 18 CVE Rules
+[2020-01-04 14:29:03,010] INFO [187] [PUSH] 95 Rules
+[2020-01-04 14:29:03,015] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,015] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,015] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,016] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,123] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,124] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,126] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,130] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,234] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,235] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,236] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,238] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,342] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,343] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,343] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,345] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,452] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,453] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,455] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,459] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,561] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,562] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,564] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,565] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,672] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,672] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,674] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,676] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,783] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,783] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,785] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,788] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,891] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,894] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,893] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:03,897] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,005] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,006] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,007] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,012] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,114] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,115] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,116] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,118] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,225] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,226] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,227] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,228] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,332] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,332] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,334] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,336] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,441] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,442] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,443] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,447] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,551] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,551] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,552] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,555] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,660] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,662] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,664] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,668] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,774] CRITICAL [485] brew install grep pleases!
+[2020-01-04 14:29:04,775] CRITICAL [485] brew install grep pleases!
+[2020-01-06 16:51:27,964] INFO [64] [REPORT] Report URL: ?sid=a938e2ksm8m3
+[2020-01-06 16:51:27,970] INFO [75] [CLI] Target directory: /home/pi/Desktop/cobra/tests/vulnerabilities
+[2020-01-06 16:51:28,180] INFO [85] [CLI] [STATISTIC] Language: php Framework: Flask
+[2020-01-06 16:51:28,182] INFO [88] [CLI] [STATISTIC] Files: 15, Extensions:14, Consume: 0.003788
+[2020-01-06 16:52:34,300] INFO [401] [PUSH] 18 CVE Rules
+[2020-01-06 16:52:39,534] INFO [187] [PUSH] 95 Rules
+[2020-01-06 16:53:19,931] INFO [243] [SCAN] Trigger Rules/Not Trigger Rules/Off Rules: 65/2/29 Vulnerabilities (68)
++----+--------+------------------------------+-------+---------------------+----------------------------------------------------+
+| #  | CVI    | Rule                         | Level | Target              | Source Code Content                                |
++----+--------+------------------------------+-------+---------------------+----------------------------------------------------+
+| 1  | 999999 | 引用了存在漏洞的三方组件     | H-08  | /requirements.txt:1 | antd:^3.3.0                                        |
+| 2  | 999999 | 引用了存在漏洞的三方组件     | H-08  | /requirements.txt:1 | dva:^2.1.0                                         |
+| 3  | 999999 | 引用了存在漏洞的三方组件     | H-08  | /requirements.txt:1 | flask-migrate:==1.8.0                              |
+| 4  | 360002 | webshell2                    | H-07  | /v.php:139          | array_filter($arr, base64_decode("ZXZhbA=="));     |
+| 5  | 360016 | webshell16                   | H-07  | /v.php:186          | filter_var_array(array('test' => $_REQUEST['pass'] |
+| 6  | 190003 | 打印phpinfo                  | L-02  | /v.php:23           | phpinfo();                                         |
+| 7  | 360012 | webshell12                   | H-07  | /v.php:177          | $func=@create_function('$x','ev'.'al'.'(gz'.'inf'. |
+| 8  | 360006 | webshell6                    | H-07  | /v.php:152          | ($code = $_POST['code']) && @preg_replace('/ad/e', |
+| 9  | 130002 | 硬编码Token/Key              | L-02  | /v.php:68           | $appKey = "C787AFE9D9E86A6A6C78ACE99CA778EE";      |
+| 10 | 360018 | webshell18                   | H-07  | /v.php:193          | mb_ereg_replace('.*', $_REQUEST['op'], '', 'e');   |
+| 11 | 130001 | 赋值型硬编码密码             | L-02  | /v.php:70           | $password = "cobra123456!@#";                      |
+| 12 | 200001 | 不安全的随机数               | L-02  | /v.java:8           | Random r = new Random();                           |
+| 13 | 170001 | LFI                          | M-05  | /v.jsp:5            | include(request.getParam('test'));                 |
+| 14 | 190006 | 设计源文件泄露               | M-04  | /v.psd:0            |                                                    |
+| 15 | 140005 | 获取URI或参数未过滤导致的XSS | M-04  | /v.lua:6            | ngx.say(ngx.req.get_uri_args().name)               |
+| 16 | 200002 | 不安全的随机数               | L-02  | /v.php:66           | $unique = uniqid();                                |
+| 17 | 110005 | 允许任意证书（CWE-295）      | M-05  | /v.java:40          | public X509Certificate[] getAcceptedIssuers()      |
+| 18 | 360007 | webshell7                    | H-07  | /v.php:155          | call_user_func('assert', $arr);                    |
+| 19 | 140002 | 输出入参可能导致XSS          | M-04  | /v.java:46          | out.println(request.getParameter("test"))          |
+| 20 | 110003 | 硬编码HTTP地址               | L-02  | /v.java:53          | String url2 = "http://www.mogujie.com"             |
+| 21 | 355001 | DES加密模式                  | L-02  | /v.java:14          | Cipher c = Cipher.getInstance("DESede/CBC/PKCS     |
+| 22 | 360011 | webshell11                   | H-07  | /v.php:174          | $sa = create_function('xxx', "eval()");$sa();      |
+| 23 | 355002 | ECB加密模式                  | L-02  | /v.java:19          | Cipher c = Cipher.getInstance("AES/ECB/NoPaddi     |
+| 24 | 360005 | webshell5                    | H-07  | /v.php:149          | ($e = $_POST['e']) && @preg_replace($e, "eval", 'h |
+| 25 | 120003 | get_headers导致的SSRF        | H-07  | /v.php:51           | echo get_headers($url, 1);                         |
+| 26 | 190001 | Logger敏感信息               | L-02  | /v.java:4           | log.debug('username: admin password: admin');      |
+| 27 | 360032 | webshell32                   | H-07  | /v.php:238          | function c999shexit()                              |
+| 28 | 160004 | SQL Execute Functions        | H-08  | /v.php:58           | mysqli_query($query);                              |
+| 29 | 190004 | 证书文件泄露                 | M-04  | /v.p12:0            |                                                    |
+| 30 | 140001 | 文本框反射型XSS              | M-04  | /v.jsp:8            | <input type="hidden" value="request.getParameter(" |
+| 31 | 360035 | webshell35                   | H-07  | /v.php:256          | $func = new ReflectionFunction($_GET[m]);          |
+| 32 | 320002 | extract导致变量覆盖漏洞      | M-04  | /v.php:10           | extract($cmd);                                     |
+| 33 | 170002 | 文件包含漏洞                 | H-07  | /v.php:61           | require_once $cmd;                                 |
+| 34 | 160003 | MySQL Execute Functions      | H-08  | /v.php:57           | mysql_query($query);                               |
+| 35 | 260001 | PHP反序列化漏洞              | M-05  | /v.php:78           | $test_uns = unserialize($test);                    |
+| 36 | 160001 | 拼接SQL注入                  | H-08  | /v.java:49          | String hql = "select max(detailLineNo) from TWmsSo |
+| 37 | 120001 | cURL导致的SSRF               | H-06  | /v.php:32           | curl_setopt($ch, CURLOPT_URL, $url);               |
+| 38 | 120004 | fsockopen造成的SSRF          | H-07  | /v.php:123          | $fp = fsockopen($host, intval($port), $errno, $err |
+| 39 | 360027 | webshell27                   | H-07  | /v.php:210          | eval(getenv('HTTP_CODE'));                         |
+| 40 | 360031 | webshell31                   | H-07  | /v.php:230          | $NXlKO=gzuncompress(base64_decode($NXlKO));        |
+| 41 | 360001 | webshell1                    | H-07  | /v.php:132          | include "sss.jpg";                                 |
+| 42 | 360004 | webshell4                    | H-07  | /v.php:146          | echo @preg_replace('/xx/e', $_POST[sss], axxa);    |
+| 43 | 190002 | 打印堆栈信息                 | L-02  | /v.java:24          | printStackTrace();                                 |
+| 44 | 360020 | webshell20                   | H-07  | /v.php:200          | array_walk($array, "eval");                        |
+| 45 | 130005 | 硬编码IP                     | M-04  | /v.php:6            | $target = "10.11.2.220";                           |
+| 46 | 350001 | unlink删除文件               | M-03  | /v.php:95           | unlink($file);                                     |
+| 47 | 210001 | 未经验证的任意链接跳转       | M-05  | /v.php:74           | header("Location: " . $url);                       |
+| 48 | 130003 | 配置型硬编码密码1            | M-04  | /v.ini:2            | db_query_password=!@#1qa123                        |
+| 49 | 360033 | webshell33                   | H-07  | /v.php:247          | if (!empty($unset_surl)) {setcookie("N3tsh_surl"); |
+| 50 | 167001 | XXE(XML实体注入)             | M-05  | /v.php:81           | $data = simplexml_load_string($xml);               |
+| 51 | 360029 | webshell29                   | H-07  | /v.php:223          | $bind_pl = "IyEvdXNyL2Jpbi9lbnYgcGVybA0KJFNIRUxMPS |
+| 52 | 360021 | webshell21                   | H-07  | /v.php:203          | $a = "ZXZhbA==";array_walk($array, base64_decode($ |
+| 53 | 130004 | 配置型硬编码密码2            | M-04  | /v.ini:1            | password: 123@123                                  |
+| 54 | 140003 | 直接输出入参可能导致XSS      | M-04  | /v.php:215          | echo $_GET[c];                                     |
+| 55 | 165001 | LDAP注入                     | M-05  | /v.php:128          | $sr      = ldap_search($ds, "o=My Company, c=US",  |
+| 56 | 360014 | webshell14                   | H-07  | /v.php:183          | $a = "eval";$a($_GET['a']);                        |
+| 57 | 181001 | 远程命令执行                 | C-10  | /v.php:16           | system('ls'+$cmd);                                 |
+| 58 | 360013 | webshell13                   | H-07  | /v.php:180          | $sa = "eval()"; create_function('xxx', $sa);       |
+| 59 | 110001 | 不安全的权限设置             | L-02  | /v.php:26           | mkdir('log/' . date("Y"), 0777);                   |
+| 60 | 190008 | 信息泄露                     | L-02  | /v.php:64           | highlight_file($cmd);                              |
+| 61 | 360028 | webshell28                   | H-07  | /v.php:219          | eval(base64_decode(                                |
+| 62 | 320001 | 变量覆盖漏洞                 | M-04  | /v.php:83           | parse_str($_SERVER['QUERY_STRING']);               |
+| 63 | 360030 | webshell30                   | H-07  | /v.php:226          | $back_connect="IyEvdXNyL2Jpbi9wZXJsDQp1c2UgU2..."; |
+| 64 | 360034 | webshell34                   | H-07  | /v.php:253          | $_POST['sa']($_POST['sb']);                        |
+| 65 | 230001 | SESSION固定攻击              | H-08  | /v.php:20           | setcookie("PHPSESSID", $cmd);                      |
+| 66 | 120002 | file_get_contents导致的SSRF  | H-07  | /v.php:46           | $content = file_get_contents($url);                |
+| 67 | 180001 | 远程代码执行                 | C-10  | /ことがあ/v.php:2   | eval($_GET['a']);                                  |
+| 68 | 180001 | 远程代码执行                 | C-10  | /v.php:11           | eval($cmd);                                        |
++----+--------+------------------------------+-------+---------------------+----------------------------------------------------+
+[2020-01-06 16:53:19,940] INFO [245] [SCAN] Not Trigger Rules (2): 190005,190007
+[2020-01-06 16:53:19,987] INFO [112] [INIT] Done! Consume Time:112.030421972s
